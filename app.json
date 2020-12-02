@@ -25,7 +25,7 @@
     },
     "START_PHOTTO": {
       "description": "Telegraph img url For Start Cmd",
-      "value": ""
+      "value": "https://telegra.ph/file/384f359a4e325fa2698fe.jpg"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
